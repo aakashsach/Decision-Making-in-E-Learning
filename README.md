@@ -1,0 +1,2 @@
+# Decision-Making-in-E-Learning
+The idea is to provide a learner the materials that will be nearly perfect fit for his/her style and will help him/her learn in a better and optimized manner. We estimate the learning style, personality and the knowledge level of a learner in order to determine and provide the user with the next topics he/she should learn. To deal with these parameters, membership and non-membership values are determined for every learner.
